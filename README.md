@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Davis and I am a recent graduate from LSU's AI & Machine Learning bootcamp and look forward to developing my skills further!
+
+- 🔭 I’m currently working on projects in **AI/ML**, with special attention to my RepVision project 
+- 🌱 I’m currently learning **deep learning, NLP, and computer vision**.  
+- 👯 I’m looking to collaborate on **AI, data analysis, and open-source ML projects**.  
+
 <!--
 **Byrdman-dev/Byrdman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
